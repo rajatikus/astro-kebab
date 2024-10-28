@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Astro?"
+title: "Yuk berdonasi"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Dengan melakukan donasi, Anda dapat membantu kami untuk meningkatkan kualitas hidup masyarakat yang berkebutuhan khusus. Donasi Anda akan digunakan untuk membantu memenuhi kebutuhan dasar pendidikan, seperti paket pembelajaran, peralatan pembelajaran, dan pendidikan."
 button:
   enable: true
-  label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  label: "Yuk berdonasi"
+  link: "https://google.com"
 ---

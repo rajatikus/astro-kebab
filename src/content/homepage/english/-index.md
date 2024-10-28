@@ -1,51 +1,57 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: “Membaca Alquran adalah cahaya bagi hati, dan dengan Braille, cahaya itu dapat dirasakan oleh semua.”
+  content: "Yayasan Hikmah Mata Hati adalah sebuah organisasi non-profit yang bergerak di bidang pendidikan, kesehatan, dan kemanusiaan. Yayasan mata hati berdiri pada tahun 2015 dengan tujuan untuk memberikan bantuan dan dukungan kepada masyarakat yang membutuhkan."
   image: "/images/banner.png"
   button:
-    enable: true
+    enable: false
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "OLA, Orientasi Langkah Awal"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Program dari yayasan yang membantu mempersiapkan seseorang yang berkebutuhan untuk berinteraksi dengan lingkungan sekitar. Program ini terdiri dari beberapa tahapan yang membantu seseorang untuk menjadi lebih mandiri dan mandiri."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Bimbingan Orang Tua"
+      - "Group Sharing Session"
+      - "Counseling"
+      - "Discovery Session"
+      - "Experiential Training"
+      - "Membuka diri dan melepaskan rasa tanpa denial"
+      - "Resistance Testing and Experience ( menganalisis kontrol diri (impulse) dan regulasi emosi)" 
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "KBAB, Kelompok Belajar AlQur'an Braille"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Merupakan program yang membantu seseorang untuk belajar Al-Qur'an dengan menggunakan metode Braille. Program ini terdiri dari beberapa tahapan yang membantu seseorang untuk belajar Al-Qur'an dengan mudah dan cepat."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Orientasi Mobilitas (Belajar mengenal dan menghadapi dunia supaya berani bertindak . Navigating the world surrounding )"
+      - "Belajar Membaca dan Melatih Menulis, berfikir logis."
+      - "memahami permasalahan, berkomunikasi dan mencari solusi."
+      - "Melatih interaksi sosial, bekerja sama dan berempati"
+      - "Belajar membaca dan memahami pola"
+      - "Melatih menulis, mengungkapkan ide dan belajar untuk berbagi."
+      - "memahami permasalahan, berkomunikasi dan mencari solusi"
+      - "Berempati, melatih interaksi sosial dan bekerja sama"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Aplikasi Mata Hati"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Aplikasi yang membantu mengajarkan seseorang untuk belajar Al-Qur'an dengan menggunakan metode Braille. Aplikasi ini terdiri dari beberapa tahapan yang membantu seseorang untuk belajar Al-Qur'an dengan mudah dan cepat."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Dibuat secara khusus untuk membantu seseorang yang berkebutuhan khusus"
+      - "Dapat diakses secara online dan offline"
+      - "Memiliki fitur-fitur yang membantu seseorang untuk belajar Al-Qur'an dengan mudah dan cepat"
+      - "Dibuat dan dikembangkan oleh orang-orang yang berkebutuhan khusus"
     button:
       enable: false
       label: ""
