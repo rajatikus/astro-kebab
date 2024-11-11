@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "Mitra kami"
+title: "Mitra Kami"
 description: "Organisaasi yang menjadi mitra kami dalam membantu masyarakat yang berkebutuhan khusus"
 
 # Testimonials
