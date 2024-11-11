@@ -19,7 +19,7 @@
     }
   ],
   "footer": [
-    { "name": "Elements", "url": "/elements" },
+    { "name": "Beranda", "url": "/" },
     { "name": "Privacy Policy", "url": "/privacy-policy" }
   ]
 }
