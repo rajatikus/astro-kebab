@@ -29,23 +29,23 @@ features:
 
   - title: "KBAB, Kelompok Belajar AlQur'an Braille"
     image: "/images/service-2.png"
-    content: "Merupakan program yang membantu seseorang untuk belajar Al-Qur'an dengan menggunakan metode Braille. Program ini terdiri dari beberapa tahapan yang membantu seseorang untuk belajar Al-Qur'an dengan mudah dan cepat."
+    content: "Komunitas Belajar Al Qur’an Braille yang dinaungi oleh Yayasan Hikmah Mata Hati. Komunitas yang berkomitmen untuk saling belajar dan mengajar Al Quran Braille, mulai dari membaca, memaknai hingga mengamalkan petunjuk dari Allah swt, dalam menjalani kehidupan sehari-harinya.
+    Kegiatan pembelajaran berlangsung setiap Senin dan Kamis dari pukul 08.00 hingga 15.00 WIB, serta online dua kali seminggu. Materi mencakup braille hijaiyah, tadarus, hafalan, kajian fiqih, akidah, dan tadabbur ayat.
+    Kegiatan Komunitas meliputi:"
     bulletpoints:
-      - "Orientasi Mobilitas (Belajar mengenal dan menghadapi dunia supaya berani bertindak . Navigating the world surrounding )"
-      - "Belajar Membaca dan Melatih Menulis, berfikir logis."
-      - "memahami permasalahan, berkomunikasi dan mencari solusi."
+      - "Pendidikan Non Formal Keagamaan"
+      - "Pelatihan yang mendorong Kemandirian"
       - "Melatih interaksi sosial, bekerja sama dan berempati"
-      - "Belajar membaca dan memahami pola"
-      - "Melatih menulis, mengungkapkan ide dan belajar untuk berbagi."
-      - "memahami permasalahan, berkomunikasi dan mencari solusi"
-      - "Berempati, melatih interaksi sosial dan bekerja sama"
+      - "Pemfasilitasan proses Pembelajaran oleh lingkungan dan masyarakat kepada seluruh anggota komunitas dalam bentuk beasiswa dan sarana dan prasarana pembelajaran, serta keterlibatan dalam kegiatan sosial masyarakat."
+
+  
     button:
       enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
   - title: "Aplikasi Mata Hati"
-    image: "/images/service-3.png"
+    image: "/images/mata-hati.png"
     content: "Aplikasi yang membantu mengajarkan seseorang untuk belajar Al-Qur'an dengan menggunakan metode Braille. Aplikasi ini terdiri dari beberapa tahapan yang membantu seseorang untuk belajar Al-Qur'an dengan mudah dan cepat."
     bulletpoints:
       - "Dibuat secara khusus untuk membantu seseorang yang berkebutuhan khusus"
